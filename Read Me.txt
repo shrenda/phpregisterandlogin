@@ -1,0 +1,2 @@
+Create database named phploginandregister
+create a table named users with fields Id, Name, Email and Password
